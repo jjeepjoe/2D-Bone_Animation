@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09fca9b5608bd334f91da383ced089f4, type: 3}
+  m_Name: Outfit_2
+  m_EditorClassIdentifier: 
+  Description: 
+  Head: {fileID: 3332387826080962713, guid: a3bf6a38dcffd3e43a18f4ec24b7c475, type: 3}
+  Eyebrows: {fileID: -848321818292908717, guid: a3bf6a38dcffd3e43a18f4ec24b7c475,
+    type: 3}
+  Eyes: {fileID: -6571560427512246446, guid: a3bf6a38dcffd3e43a18f4ec24b7c475, type: 3}
+  Mouth: {fileID: -5768764172227578832, guid: a3bf6a38dcffd3e43a18f4ec24b7c475, type: 3}
+  TorsoSkin: {fileID: 5089012095448232640, guid: a3bf6a38dcffd3e43a18f4ec24b7c475,
+    type: 3}
+  NeckSkin: {fileID: -1842667930744736754, guid: a3bf6a38dcffd3e43a18f4ec24b7c475,
+    type: 3}
+  Skirt: {fileID: -3735883521664483130, guid: a3bf6a38dcffd3e43a18f4ec24b7c475, type: 3}
+  CloserLegUpper: {fileID: 3577947617870344825, guid: a3bf6a38dcffd3e43a18f4ec24b7c475,
+    type: 3}
+  CloserLegLower: {fileID: 6109113685564980873, guid: a3bf6a38dcffd3e43a18f4ec24b7c475,
+    type: 3}
+  RemoteLegUpper: {fileID: 547370203975464535, guid: a3bf6a38dcffd3e43a18f4ec24b7c475,
+    type: 3}
+  RemoteLegLower: {fileID: -827803960109826810, guid: a3bf6a38dcffd3e43a18f4ec24b7c475,
+    type: 3}
+  CloserArm: {fileID: 2228150940548893131, guid: a3bf6a38dcffd3e43a18f4ec24b7c475,
+    type: 3}
+  CloserHand: {fileID: 7727738110408615736, guid: a3bf6a38dcffd3e43a18f4ec24b7c475,
+    type: 3}
+  RemoteArm: {fileID: 3126993773750435297, guid: a3bf6a38dcffd3e43a18f4ec24b7c475,
+    type: 3}
+  RemoteHand: {fileID: 6380748528638193596, guid: a3bf6a38dcffd3e43a18f4ec24b7c475,
+    type: 3}
+  UniqueItems: []
+  TorsoJoint:
+    LocalPosition: {x: 0, y: 0}
+    LocalZRotation: 0
+  NeckJoint:
+    LocalPosition: {x: 0, y: 0}
+    LocalZRotation: 0
+  CloserShoulderJoint:
+    LocalPosition: {x: 0, y: 0}
+    LocalZRotation: 0
+  CloserElbowJoint:
+    LocalPosition: {x: 0, y: 0}
+    LocalZRotation: 0
+  RemoteShoulderJoint:
+    LocalPosition: {x: 0, y: 0}
+    LocalZRotation: 0
+  RemoteElbowJoint:
+    LocalPosition: {x: 0, y: 0}
+    LocalZRotation: 0
+  CloserHipJoint:
+    LocalPosition: {x: 0, y: 0}
+    LocalZRotation: 0
+  RemoteHipJoint:
+    LocalPosition: {x: 0, y: 0}
+    LocalZRotation: 0
+  CloserKneeJoint:
+    LocalPosition: {x: 0, y: 0}
+    LocalZRotation: 0
+  RemoteKneeJoint:
+    LocalPosition: {x: 0, y: 0}
+    LocalZRotation: 0
